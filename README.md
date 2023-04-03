@@ -37,8 +37,4 @@ To use this project, simply clone the repository and run the `EDA_on_IPL.ipynb` 
 
 If you would like to contribute to this project, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-Feel free to customize this template to fit your project's needs. Good luck with your project!
